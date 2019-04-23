@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a Research Software Engineer with a PhD in atmospheric physics from the University of Manchester. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[deardenchris@gmail.com](mailto:dearden.chris@gmail.com)
