@@ -8,4 +8,4 @@ I am a Research Software Engineer with a PhD in atmospheric physics from the Uni
 
 ### Contact me
 
-[deardenchris@gmail.com](mailto:dearden.chris@gmail.com)
+[dearden.chris@gmail.com](mailto:dearden.chris@gmail.com)
